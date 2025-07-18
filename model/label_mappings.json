@@ -1,0 +1,23 @@
+{
+  "gender": {
+    "Female": 0,
+    "Male": 1
+  },
+  "sleep": {
+    "6 - 8 hours": 0,
+    "Less than 8 hours": 1,
+    "More than 8 hours": 2
+  },
+  "type": {
+    "Type 2": 0,
+    "Type 3": 1,
+    "Type 4": 2,
+    "Type 5": 3
+  },
+  "stress": {
+    "High": 0,
+    "Low": 1,
+    "Medium": 2,
+    "normal": 3
+  }
+}
