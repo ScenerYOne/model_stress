@@ -1,0 +1,29 @@
+{
+    "label_stress": [
+        { "id": "S01", "section1": "Low", "section2": "High", "section3": "High" },
+        { "id": "S02", "section1": "Medium", "section2": "Medium", "section3": "Low" },
+        { "id": "S03", "section1": "Medium", "section2": "High", "section3": "High" },
+        { "id": "S04", "section1": "Low", "section2": "Medium", "section3": "High" },
+        { "id": "S05", "section1": "Low", "section2": "Low", "section3": "Medium" },
+        { "id": "S06", "section1": "Medium", "section2": "Medium", "section3": "High" },
+        { "id": "S07", "section1": "Low", "section2": "Medium", "section3": "Medium" },
+        { "id": "S08", "section1": "Low", "section2": "Low", "section3": "Low" },
+        { "id": "S09", "section1": "Low", "section2": "Low", "section3": "Low" },
+        { "id": "S10", "section1": "Low", "section2": "Medium", "section3": "High" },
+        { "id": "S11", "section1": "Medium", "section2": "Medium", "section3": "High" },
+        { "id": "S12", "section1": "Low", "section2": "Low", "section3": "Medium" },
+        { "id": "S13", "section1": "Medium", "section2": "Low", "section3": "Medium" },
+        { "id": "S14", "section1": "Low", "section2": "Medium", "section3": "Medium" },
+        { "id": "S15", "section1": "Medium", "section2": "Medium", "section3": "High" },
+        { "id": "S16", "section1": "Low", "section2": "Medium", "section3": "Medium" },
+        { "id": "S17", "section1": "Medium", "section2": "Low", "section3": "Medium" },
+        { "id": "S18", "section1": "Low", "section2": "Low", "section3": "Medium" },
+        { "id": "S19", "section1": "Low", "section2": "Low", "section3": "Low" },
+        { "id": "S20", "section1": "Low", "section2": "Medium", "section3": "Medium" },
+        { "id": "S21", "section1": "Low", "section2": "Medium", "section3": "Medium" },
+        { "id": "S22", "section1": "Low", "section2": "Medium", "section3": "Low" },
+        { "id": "S23", "section1": "Medium", "section2": "Low", "section3": "Low" },
+        { "id": "S24", "section1": "Low", "section2": "Medium", "section3": "High" },
+        { "id": "S25", "section1": "Low", "section2": "Medium", "section3": "Medium" }
+    ]
+}
